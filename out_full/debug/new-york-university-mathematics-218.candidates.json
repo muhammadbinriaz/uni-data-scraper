@@ -1,0 +1,26 @@
+[
+  {
+    "key": "ul|dropdown-menu.dropdown-menu-lower-level",
+    "count": 10,
+    "withMail": 0,
+    "withName": 9,
+    "withBoth": 0,
+    "score": 28.460498941515414
+  },
+  {
+    "key": "li|dropdown.dropdowncontent.nav-item",
+    "count": 6,
+    "withMail": 0,
+    "withName": 5,
+    "withBoth": 0,
+    "score": 12.24744871391589
+  },
+  {
+    "key": "ul|dropdown-menu",
+    "count": 6,
+    "withMail": 0,
+    "withName": 5,
+    "withBoth": 0,
+    "score": 12.24744871391589
+  }
+]

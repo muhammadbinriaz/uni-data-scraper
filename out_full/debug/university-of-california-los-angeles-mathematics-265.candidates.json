@@ -1,0 +1,26 @@
+[
+  {
+    "key": "li|leaf",
+    "count": 9,
+    "withMail": 0,
+    "withName": 5,
+    "withBoth": 0,
+    "score": 15
+  },
+  {
+    "key": "ul|dropdown-menu",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "div|container",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  }
+]

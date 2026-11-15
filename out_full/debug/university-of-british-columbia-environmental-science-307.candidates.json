@@ -1,0 +1,18 @@
+[
+  {
+    "key": "nav|",
+    "count": 4,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 6
+  },
+  {
+    "key": "ul|ubc-institutional-list",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  }
+]

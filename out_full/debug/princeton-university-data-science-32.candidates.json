@@ -1,0 +1,34 @@
+[
+  {
+    "key": "div|container",
+    "count": 4,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 4
+  },
+  {
+    "key": "div|row",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  },
+  {
+    "key": "div|layout-container",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  },
+  {
+    "key": "div|layout-is-2xl.layout__region.layout__region--content",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  }
+]

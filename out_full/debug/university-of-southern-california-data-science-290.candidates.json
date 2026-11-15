@@ -1,0 +1,18 @@
+[
+  {
+    "key": "div|x-row-inner",
+    "count": 5,
+    "withMail": 0,
+    "withName": 5,
+    "withBoth": 0,
+    "score": 11.180339887498949
+  },
+  {
+    "key": "ul|sub-menu.x-collapsed",
+    "count": 4,
+    "withMail": 0,
+    "withName": 4,
+    "withBoth": 0,
+    "score": 8
+  }
+]

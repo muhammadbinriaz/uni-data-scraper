@@ -1,0 +1,42 @@
+[
+  {
+    "key": "div|",
+    "count": 9,
+    "withMail": 1,
+    "withName": 2,
+    "withBoth": 1,
+    "score": 13.333333333333334
+  },
+  {
+    "key": "ul|menu",
+    "count": 5,
+    "withMail": 0,
+    "withName": 5,
+    "withBoth": 0,
+    "score": 11.180339887498949
+  },
+  {
+    "key": "li|last.leaf",
+    "count": 5,
+    "withMail": 0,
+    "withName": 4,
+    "withBoth": 0,
+    "score": 8.94427190999916
+  },
+  {
+    "key": "li|leaf",
+    "count": 6,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 7.348469228349534
+  },
+  {
+    "key": "li|expanded.first",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "key": "ul|menu",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "ul|sf-hidden.sf-megamenu",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  },
+  {
+    "key": "ol|",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  },
+  {
+    "key": "li|first.odd.sf-depth-2.sf-item-1.sf-no-children",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  },
+  {
+    "key": "li|last.leaf",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  }
+]

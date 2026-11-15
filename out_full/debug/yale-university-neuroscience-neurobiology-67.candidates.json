@@ -1,0 +1,26 @@
+[
+  {
+    "key": "li|footer-secondary-links-list__list-item",
+    "count": 7,
+    "withMail": 1,
+    "withName": 2,
+    "withBoth": 1,
+    "score": 12.09486313629527
+  },
+  {
+    "key": "div|component-wrapper.component-wrapper--all",
+    "count": 5,
+    "withMail": 2,
+    "withName": 1,
+    "withBoth": 0,
+    "score": 11.180339887498949
+  },
+  {
+    "key": "div|",
+    "count": 3,
+    "withMail": 2,
+    "withName": 0,
+    "withBoth": 0,
+    "score": 6.928203230275509
+  }
+]

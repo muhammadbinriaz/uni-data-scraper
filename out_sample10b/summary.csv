@@ -1,0 +1,11 @@
+university,sheet_department,url,status,rows,pages,cluster,note
+Harvard University,Biology,https://sysbio.med.harvard.edu/graduate-student-profiles,empty,0,1,p|,no student cards detected
+Harvard University,Chemistry,https://www.chemistry.harvard.edu/people?f%5B0%5D=hwp_c_graduatestudents%3A159736&f%5B1%5D=hwp_c_graduatestudents%3A159731&f%5B2%5D=hwp_c_graduatestudents%3A159741,empty,0,1,,no student cards detected
+Harvard University,Classics,https://classics.fas.harvard.edu/graduate-students-0,empty,0,1,,no student cards detected
+Harvard University,Computer Science,https://seas.harvard.edu/computer-science/people?search=&role%5B61%5D=61,ok,96,7,div|field-items,
+Harvard University,Engineering (not Aerospace),https://seas.harvard.edu/about-us/directory?search=&role%5B61%5D=61&sort_by=field_last_name,empty,0,2,,no student cards detected
+Harvard University,Environmental Science,https://seas.harvard.edu/environmental-science-engineering/people?search=&role%5B61%5D=61,ok,18,1,div|field-items,
+Harvard University,Political Science/International Relations & Government,https://www.gov.harvard.edu/people/graduate-students/,ok,91,1,div|col-md-4.cp-dir-content-grid-item.cp-dir-content-grid-item-has-thumbnail,
+Harvard University,Mathematics,https://www.math.harvard.edu/peoples-categories/graduate-students/,empty,0,1,,no student cards detected
+Harvard University,Neuroscience/Neurobiology,https://pinphd.hms.harvard.edu/our-students,empty,0,1,,no student cards detected
+Harvard University,Physics & Astrophysics,https://astronomy.fas.harvard.edu/alphabetical-last-name/graduate-student,empty,0,1,,no student cards detected

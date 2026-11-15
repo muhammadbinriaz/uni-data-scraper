@@ -1,0 +1,26 @@
+[
+  {
+    "key": "p|",
+    "count": 5,
+    "withMail": 1,
+    "withName": 2,
+    "withBoth": 1,
+    "score": 10.73312629199899
+  },
+  {
+    "key": "ul|",
+    "count": 6,
+    "withMail": 0,
+    "withName": 4,
+    "withBoth": 0,
+    "score": 9.797958971132712
+  },
+  {
+    "key": "li|first",
+    "count": 3,
+    "withMail": 0,
+    "withName": 2,
+    "withBoth": 0,
+    "score": 3.4641016151377544
+  }
+]

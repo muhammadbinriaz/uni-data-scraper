@@ -1,0 +1,66 @@
+[
+  {
+    "key": "div|btn-group",
+    "count": 15,
+    "withMail": 0,
+    "withName": 15,
+    "withBoth": 0,
+    "score": 58.09475019311125
+  },
+  {
+    "key": "ul|clearfix.dropdown-menu",
+    "count": 15,
+    "withMail": 0,
+    "withName": 15,
+    "withBoth": 0,
+    "score": 58.09475019311125
+  },
+  {
+    "key": "li|leaf",
+    "count": 4,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 6
+  },
+  {
+    "key": "li|dropdown.expanded.menu-item--expanded.navbar-item.prospective-students",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "li|item.navbar-item.vancouver-campus",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "li|graduate-degree-programs.item.navbar-item",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "li|info-sessions.item.navbar-item",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  },
+  {
+    "key": "li|item.navbar-item.research-supervisors",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  }
+]

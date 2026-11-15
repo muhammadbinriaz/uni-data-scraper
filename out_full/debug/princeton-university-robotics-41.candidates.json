@@ -1,0 +1,26 @@
+[
+  {
+    "key": "li|",
+    "count": 5,
+    "withMail": 0,
+    "withName": 4,
+    "withBoth": 0,
+    "score": 8.94427190999916
+  },
+  {
+    "key": "div|container",
+    "count": 4,
+    "withMail": 1,
+    "withName": 1,
+    "withBoth": 0,
+    "score": 6
+  },
+  {
+    "key": "div|field__item.item-summary",
+    "count": 3,
+    "withMail": 0,
+    "withName": 3,
+    "withBoth": 0,
+    "score": 5.196152422706632
+  }
+]

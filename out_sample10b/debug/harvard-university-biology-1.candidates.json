@@ -1,0 +1,58 @@
+[
+  {
+    "key": "p|",
+    "count": 27,
+    "withMail": 1,
+    "withName": 27,
+    "score": 29.03703703703703
+  },
+  {
+    "key": "li|list-item",
+    "count": 26,
+    "withMail": 0,
+    "withName": 26,
+    "score": 26
+  },
+  {
+    "key": "div|list-item-content",
+    "count": 26,
+    "withMail": 0,
+    "withName": 26,
+    "score": 26
+  },
+  {
+    "key": "div|list-item-content__text-wrapper",
+    "count": 26,
+    "withMail": 0,
+    "withName": 26,
+    "score": 26
+  },
+  {
+    "key": "div|list-item-content__description",
+    "count": 26,
+    "withMail": 0,
+    "withName": 26,
+    "score": 26
+  },
+  {
+    "key": "div|header-nav-folder-item",
+    "count": 32,
+    "withMail": 0,
+    "withName": 26,
+    "score": 21.125
+  },
+  {
+    "key": "div|header-nav-folder-content",
+    "count": 14,
+    "withMail": 0,
+    "withName": 14,
+    "score": 14
+  },
+  {
+    "key": "div|header-nav-item.header-nav-item--folder",
+    "count": 12,
+    "withMail": 0,
+    "withName": 12,
+    "score": 12
+  }
+]

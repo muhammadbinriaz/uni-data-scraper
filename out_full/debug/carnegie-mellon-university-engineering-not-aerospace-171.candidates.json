@@ -1,0 +1,26 @@
+[
+  {
+    "key": "div|jcr-group.jcr-post.jcr-post-card.jcr-post-card--fit",
+    "count": 100,
+    "withMail": 0,
+    "withName": 52,
+    "withBoth": 0,
+    "score": 520
+  },
+  {
+    "key": "div|jcr-post-content",
+    "count": 79,
+    "withMail": 0,
+    "withName": 52,
+    "withBoth": 0,
+    "score": 462.1861097004106
+  },
+  {
+    "key": "div|jcr-post-message",
+    "count": 79,
+    "withMail": 0,
+    "withName": 52,
+    "withBoth": 0,
+    "score": 462.1861097004106
+  }
+]
